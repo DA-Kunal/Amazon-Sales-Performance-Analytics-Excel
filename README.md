@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard built to analyze Amazon sales performance, regional trends, product categories, fulfillment metrics, and monthly revenue distributions. 
 
-![Dashboard Preview](Screenshots/Amazon%20Sales%20Dashboard.png)
+![Dashboard Preview](Screenshot/Amazon%20Sales%20Dashboard.png)
 
 ---
 
